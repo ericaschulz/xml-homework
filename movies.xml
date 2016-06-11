@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<movie_collection xmlns:collection="http://movies.com">
+
+		<movie>
+			<movie id="tcwwts">
+			<title>"The Computer Who Wore Tennis Shoes"</title>
+			<description>A college sophomore crosses wires with a computer...and electrifies the establishment!</description>
+			<showtimes>
+				<time>11:00AM</time>
+				<time>1:00PM</time>
+				<time>3:00PM</time>
+		
+			</showtimes>	
+        	<element/>
+        	<element/>
+  		</movie>
+    
+  		<movie>
+    		<movie id = "tr">
+    		<title>"True Romance"</title>
+    		<description>Stealing. Cheating. Killing. Who said romance is dead?</description>
+    		<showtimes>
+        		<time>7:00PM</time>
+        		<time>9:00PM</time>
+        		<time>11:00PM</time>
+    		</showtimes>
+    		<element/>
+    		<element/>
+   	    </movie>
+
+		<movie>
+    		<movie id = "tesb">
+    		<title>"The Empire Strikes Back"</title>
+    		<description>The Star Wars saga continues...</description>
+    		<showtimes>
+        		<time>2:00PM</time>
+        		<time>4:00PM</time>
+        		<time>6:00PM</time>
+    		</showtimes>
+      		<element/>
+      		<element/>
+  		</movie>
+
+  		<movie>
+    		<movie id = "rd">
+    		<title>"Reservoir Dogs"</title>
+    		<description>Seven Total Strangers Team Up For The Perfect Crime.</description>
+    		<showtimes>
+    			<time>8:00PM</time>
+    			<time>10:00PM</time>
+    			<time>12:00AM</time>
+    		</showtimes>
+    		<element/>
+    		<element/>
+ 		 </movie>	
+</movie_collection>
+
+
+
+			
+		
+		
+	
