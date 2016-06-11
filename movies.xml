@@ -40,7 +40,8 @@
     		</showtimes>
       		<element/>
       		<element/>
-  		</movie>
+  		
+  	  </movie>
 
   		<movie>
     		<movie id = "rd">
@@ -53,7 +54,9 @@
     		</showtimes>
     		<element/>
     		<element/>
- 		 </movie>	
+ 	   
+ 	    </movie>	
+ 	   
 </movie_collection>
 
 
